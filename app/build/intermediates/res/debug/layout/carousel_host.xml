@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:auto="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical" >
+
+    <com.reconinstruments.ui.carousel.CarouselViewPager
+        android:id="@+id/carousel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        auto:animateSelection="true"
+        android:gravity="center"/>
+</LinearLayout>
+<!-- From: file:/media/chris/linux_data/dev/recon/jet/mydroid/vendor/reconinstruments/limo_apps/sdk/libraries/reconUI/src/main/res/layout/carousel_host.xml --><!-- From: file:/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/exploded-aar/com.reconinstruments.ui/recon-ui/4.3.0/res/layout/carousel_host.xml -->

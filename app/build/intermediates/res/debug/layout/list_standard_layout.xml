@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<com.reconinstruments.ui.list.ReconListView
+		android:id="@android:id/list"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"/>
+</FrameLayout><!-- From: file:/media/chris/linux_data/dev/recon/jet/mydroid/vendor/reconinstruments/limo_apps/sdk/libraries/reconUI/src/main/res/layout/list_standard_layout.xml --><!-- From: file:/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/exploded-aar/com.reconinstruments.ui/recon-ui/4.3.0/res/layout/list_standard_layout.xml -->

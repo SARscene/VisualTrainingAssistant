@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/exploded-aar/com.reconinstruments.app/recon-application/4.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c376a8e72ae7e97272e7bbdf20ae679fc6070e">
+        <dex dex="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/pre-dexed/debug/classes-d0069106b104111714d89b05702ba5b14b71aeb0.jar" />
+    </item>
+    <item
+        jar="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/pre-dexed/debug/classes-0c35304e24b0f74fcbd3078d70b6732c63d481f6.jar" />
+    </item>
+    <item
+        jar="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/exploded-aar/com.reconinstruments.ui/recon-ui/4.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e22ca2f1b4b603d2d0f491d5426ab73a3775e9c">
+        <dex dex="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/pre-dexed/debug/classes-29e5a0d04fd4c020ab25c9e32dca489bbafb51f2.jar" />
+    </item>
+    <item
+        jar="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/pre-dexed/debug/classes-628b4bfca4550926575114523c3e45572d9329ea.jar" />
+    </item>
+    <item
+        jar="/Users/david_o/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-1d83defdd455a405ad8c34d5bfce1953cf6f796e.jar" />
+    </item>
+    <item
+        jar="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/david_o/AndroidStudioProjects/sdk/Samples/DemoCompass/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-b38a295d76522fcac406a1ce6a3fa8ec9040a1b6.jar" />
+    </item>
+
+</items>
